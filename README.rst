@@ -2,7 +2,7 @@
 Practical SQA [Selenium Tests]
 ########################################
 
-This repository contains `Selenium <http://seleniumhq.org/>`_ tests for the `Practical SQA <http://www.practicalsqa.net/>`_, `GitHub Account <https://github.com/larate/practical-sqa>`_.
+This repository contains `Selenium <http://seleniumhq.org/>`_ tests for the `Practical SQA <http://www.old.practicalsqa.net/>`_, `GitHub Account <https://github.com/larate/practical-sqa>`_.
 
 
     .. image:: https://github.com/larate/practical-sqa/blob/petrTest1/screenshot/README/homepage.png
@@ -33,7 +33,7 @@ Make sure you have `Git <https://git-scm.com/>`_ installed on your system. For c
 ----------------
 GitHub
 ----------------
-Make sure you have access `GitHub Account <https://github.com/larate/automation_practical_sqa.git`_:
+Make sure you have access `GitHub Account <https://github.com/larate/automation-new-practical`_:
 
 ``git clone https://github.com/larate/automation_practical_sqa.git``
 
