@@ -35,7 +35,7 @@ GitHub
 ----------------
 Make sure you have access `GitHub Account <https://github.com/larate/automation-new-practical`_:
 
-``git clone https://github.com/larate/automation_practical_sqa.git``
+``https://github.com/larate/automation-new-practical.git``
 
 ----------------
 Ruby
